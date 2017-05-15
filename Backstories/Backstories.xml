@@ -1349,16 +1349,15 @@ HIS身体被处于试验阶段的纳米基因疗法修复。现在HIS肌肉不�
 		<titleShort>医学研究者</titleShort>
 		<desc>NAME在路过的科研飞船上成功应聘为一名医生。与一大船的异种人类船员和异星鸟类一起漫游星际，HE遇到了一个庞大的外星人和异星鸟类的生物群，HE对这些动物进行了生物研究。HE和其中一只异星鸟类发展了深厚的情谊，直到船长赶走了所有鸟类他们才被迫分离。</desc>
 	</MedicalScientist25>
-	<UrbworldUrchin13>
-		<title>城市星球流浪儿</title>
+	<UrbworldUrchin35>
+		<title>都市世界流浪儿</title>
 		<titleShort>流浪儿</titleShort>
-		<desc>NAME出生在城市中黑暗的贫民窟里。被母亲忽视，她学会了自己的生存，争夺每一块食物。
-最终，由于她的能力超过了她的同龄人，她从贫民窟中摆脱了出来，抛下了她的母亲。</desc>
-	</UrbworldUrchin13>
+		<desc>NAME被遗弃在肮脏的混凝土尖塔中，HE从不知道自己的父母是谁。HECAP从来没有接受过正规教育，并且经常干一些低贱的活来换取食物。有时候为了生存HE会去骗、去偷。</desc>
+	</UrbworldUrchin35>
 	<VoidRaider31>
 		<title>虚空掠袭者</title>
 		<titleShort>掠袭者</titleShort>
-		<desc>NAME渴望冒险和荣耀，准备组建一个掠袭团穿过虚空，HE发誓永不背叛HIS团员和兄弟，并用手中的刀和枪将HIS荣耀传播整片星海。</desc>
+		<desc>渴望冒险与荣耀，NAME跟随掠袭团穿越虚空，以自己的荣誉发誓永不背叛团队和兄弟，并用自己手中的刀与枪将荣耀洒向星河。</desc>
 	</VoidRaider31>
 	<MidworldSketcher21>
 		<title>当代世界素描家</title>
@@ -1394,19 +1393,19 @@ HE发现他有一个艺术才能，他继承自他的父亲。 HI的母亲教他
 		<titleShort>骑士</titleShort>
 		<desc>NAME位国王和国家在战场上征战，在战场上HE增进了HIS剑技。HE最大的荣耀就是在敌人环伺下冲入敌国的审判室，抓住敌人的国王。</desc>
 	</MedievalKnight71>
-	<StarSquire21>
-		<title>向往骑士者</title>
-		<titleShort>骑士</titleShort>
-		<desc>出生在一个封建世界，NAME的第一记忆是凝视着到夜晚的天空。
+	<StarSquire93>
+		<title>星际扈从</title>
+		<titleShort>扈从</titleShort>
+		<desc>出生在一个封建世界，NAME的第一记忆是凝视着夜晚的天空。
 
-从那以后，他梦见在充满星空的天空中为一个骑士而。。。  HIS重点放在视觉留给他多少有些一心一意。。</desc>
-	</StarSquire21>
+从那以后，HE梦想着在铺满星辰的天空中追随骑士的不发。对梦想的专注给HIM带来了惊喜。</desc>
+	</StarSquire93>
 	<StarKnight78>
-		<title>星球骑士</title>
+		<title>星际骑士</title>
 		<titleShort>骑士</titleShort>
-		<desc>从他的中世纪的家园被绑架，NAME后来通过一个令人印象深刻的剑术逃脱了他的俘虏。
+		<desc>NAME被从中世纪母星被绑架走，后来通过一手惊人的剑术逃脱。
 
-有一会儿，当他在逃生荚里漂流时，他的童年梦想成为星星中的骑士感觉真的。 然后他崩溃了。</desc>
+在逃生舱中时，有一瞬间，童年时成为星辰间的骑士的梦想是那么真实。随后，HE迫降成功了。</desc>
 	</StarKnight78>
 	<DrugMule2>
 		<title>运毒者</title>
@@ -1599,7 +1598,7 @@ HE被当地帮派指派运送"F药品"，穿过敌对帮派的控制地盘。HE�
 	</BoneCollector51>
 	<Osteologist68>
 		<title>骨骼学家</title>
-		<titleShort>学者</titleShort
+		<titleShort>学者</titleShort>
 		<desc>以优异的成绩从大学毕业后，NAME很快成为一个著名而并健壮的大学教授。
 
 随着增长的名声和身体素质，他不再需要从事低技术含量的工作——这些工作留给研究生做更好。</desc>
@@ -1790,7 +1789,6 @@ HECAP加入了抵抗团体，并运用了在HIS家园的学习到的技能。 HE
 
 甚至在某处有关于他们的宗教，那个宗教还包括了面条和肉丸。</desc>
 	</DreadedDude3>
-<<<<<<< HEAD
 	<TechHead78>
 		<title>科技发烧友</title>
 		<titleShort>科技发烧友</titleShort>
@@ -1805,8 +1803,6 @@ HE被纳入国名学术计划。 假装是HE父亲的同时，HE花了HIS时间�
 
 当不工作时，他会做机械雕像，读旧书，或偶尔旅行到未知的世界。作为一个内向的人，HE喜欢一个人做这些事情。</desc>
 	</SystemsEngineer27>
-=======
->>>>>>> refs/remotes/Ludeon/master
 	<Tinkerer87>
 		<title>修补工</title>
 		<titleShort>修补工</titleShort>
@@ -1930,20 +1926,6 @@ HE告诉其他人HE从未得到幸运女神的眷顾。</desc>
 		<titleShort>发明家</titleShort>
 		<desc>满怀着对新发现的热情和自大，NAME不断地发明新的设计以提高现有设计的能力，为此不惜违反星际法律和风俗。HE组织了一个团体来为HE收集材料─以及处理外界的干扰。</desc>
 	</ArtificerRampant50>
-	<TechHead78>
-		<title>科技发烧友</title>
-		<titleShort>科技发烧友</titleShort>
-		<desc>还是孩子时就穿着儿童宇航服和父亲一起站在船体上进行舱外活动，NAME从小就产生了对太空的爱好。
-
-HE被纳入国名学术计划。 假装是HE父亲的同时，HE花了HIS时间照顾在HIS凌乱的房间里的植物。 HE昵称来自他对于圆的热爱。</desc>
-	</TechHead78>
-	<SystemsEngineer27>
-		<title>系统工程师</title>
-		<titleShort>工程师</titleShort>
-		<desc>像HIS的父亲一样，NAME是一名系统工程师。HE在殖民地系统和船舶系统方面都是合格的工程师。
-
-当不工作时，他会做机械雕像，读旧书，或偶尔旅行到未知的世界。作为一个内向的人，HE喜欢一个人做这些事情。</desc>
-	</SystemsEngineer27>
 	<Orphan91>
 		<title>孤儿</title>
 		<titleShort>孤儿</titleShort>
@@ -2681,6 +2663,13 @@ HECAP 讨厌打架, 但是生气的时候还是很危险</desc>
 
 这段经历让他没有什么要好的朋友 HIS非常敏感, 但是学会了隐藏自己的情绪</desc>
 	</SpaceExplorer81>
+	<UrbworldUrchin13>
+		<title>城市星球流浪儿</title>
+		<titleShort>流浪儿</titleShort>
+		<desc>NAME出生在城市中黑暗的贫民窟里。被母亲忽视，她学会了自己的生存，争夺每一块食物。
+
+最终，由于她的能力超过了她的同龄人，她从贫民窟中摆脱了出来，抛下了她的母亲。</desc>
+	</UrbworldUrchin13>
 	<Smuggler62>
 		<title>走私者</title>
 		<titleShort>走私者</titleShort>
@@ -2779,9 +2768,9 @@ HISCAP的人物是攻入敌方星舰，击毙船员，并捕获完整的舰船�
 	<EnvoyOfTheStars91>
 		<title>星间使者</title>
 		<titleShort>使者</titleShort>
-		<desc>NAME加入了外交部队 在每一次任务中他都严守荣誉和传统。
+		<desc>NAME加入了外交部队，在每一次任务中他都严守荣誉和传统。
 
-HIS工作让他远离手工劳动, 让HIM专注于对于语言的驾驭</desc>
+享有盛誉的身份使HIM远离累人的体力劳动，让HIM可以专注于文案工作。HE将铁匠工作留交给了别人。</desc>
 	</EnvoyOfTheStars91>
 	<ApprenticeSmith9>
 		<title>铁匠学徒</title>
@@ -3371,7 +3360,7 @@ HECAP从瘟疫医生们那学到了一些医药知识，但苦难的经历在HIS
 		<titleShort>医生</titleShort>
 		<desc>NAME成为了一名医生，拯救生命和研究药物。HECAP很快意识到，只有一个方法能让HIS研究有所进展，那就是拿人类病人做实验。
 
-HECAP经常拿病人做实验——无论他们是否原意。</desc>
+HECAP经常拿病人做实验——无论他们是否愿意。</desc>
 	</UnethicalDoctor97>
 	<OffworldRecruit22>
 		<title>远离世界新兵</title>
@@ -3498,59 +3487,73 @@ HE是一个很文明的小孩，大多数斗士都会接受HE训练的请求—�
 除此之外，HIS乐观的态度驱使HIM不断的尝试治疗那些有需要的人们。只要他们预付了钱。</desc>
 	</PirateDoctor33>
 	<SpoiledBrat84>
-		<title>Spoiled brat</title>
-		<titleShort>Brat</titleShort>
-		<desc>Born in a rich family, NAME was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.
+		<title>被宠坏的顽童</title>
+		<titleShort>顽童</titleShort>
+		<desc>NAME出生在一个富裕的家庭，家人都对他予取予求，完全没有培养出基本的职业道德和独立的人格。
 
-HECAP was expected to become one of the best doctors in the world.</desc>
+HECAP被期望成为世界上最好的医生。</desc>
 	</SpoiledBrat84>
 	<BloodyDentist33>
-		<title>Bloody dentist</title>
-		<titleShort>Dentist</titleShort>
-		<desc>After studying at a famous college, NAME's weak personality eventually snapped under the strain of angry administrators and whining patients. HECAP went on a secret murder spree, killing many of those under HIS care.
+		<title>嗜血的牙医</title>
+		<titleShort>牙医</titleShort>
+		<desc>在一所著名大学毕业后，愤怒的上司和呻吟的病人最终压垮了NAME脆弱的人格。HECAP成为一名秘密杀人狂，杀掉所有被HIM盯上的人。
 
-After a pursuit, HE managed to escape HIS planet and travel to a new world.</desc>
+在一次追捕后，HE最终逃离了HIS星球前往新的世界。</desc>
 	</BloodyDentist33>
 	<CowFarmer93>
-		<title>Cow farmer</title>
-		<titleShort>Farmer</titleShort>
-		<desc>NAME grew up on a rim world, under the tyranny of HIS father, who forced HIM to work every day on the farm. HE dreamed of escaping HIS father and exploring the universe.
+		<title>牛场主</title>
+		<titleShort>牛场主</titleShort>
+		<desc>NAME在一个边缘世界，从小受到父亲的虐待，被逼迫着每天在农场中工作。HE梦想着逃离HIS父亲到宇宙中探险。
 
-One day, when the trade ship was overhead, HE stowed away among the goods in the launch pods, and escaped into space.</desc>
+有一天，商船在空中停留时，HE偷偷藏在发射舱的货物中，最后逃向星际。</desc>
 	</CowFarmer93>
 	<MasterChef6>
-		<title>Master chef</title>
-		<titleShort>Chef</titleShort>
-		<desc>On a glitterworld, NAME found a job washing dishes at a famous restaurant and worked HIS way up the ranks.
+		<title>顶级厨师</title>
+		<titleShort>厨师</titleShort>
+		<desc>NAME在闪耀世界找到了一个在名餐厅洗盘子的工作，然后步步攀升。
 
-A few years later, HIS career came to an end when someone poisoned the meal HE was preparing for the mayor. Jobless, HE and left to explore the stars once again.</desc>
+短短几年后，HIS职业生涯就以为有人在HE给市长准备的菜肴中下毒而走到了尽头。丢掉了工作，HE再次开始了星际间的探险。</desc>
 	</MasterChef6>
 	<DiscardedYouth95>
-		<title>Discarded youth</title>
-		<titleShort>Discarded</titleShort>
-		<desc>NAME grew up isolated on a trash planet. A dumping ground for surrounding glitterworlds, it was a harsh home. As a baby, HE sucked on the tap of a discarded nutrient paste dispenser for comfort.
+		<title>被抛弃的年轻人</title>
+		<titleShort>被抛弃者</titleShort>
+		<desc>NAME在一个垃圾行星孤独地长大。那是周围的闪耀世界倾倒垃圾的地方，就是这样一个残酷的地方就是HIS家。还是婴儿时，HE只能吮吸被遗弃的营养膏合成机的龙头。
 
-In these desperate circumstances, against all odds, HE survived - and thrived.</desc>
+这种被抛弃的环境下，对抗种种不利条件，HE存活了下来，最终长大。</desc>
 	</DiscardedYouth95>
 	<Mercenary19>
-		<title>Mercenary</title>
-		<titleShort>Mercenary</titleShort>
-		<desc>After escaping his home planet, NAME fell in with a band of mercenaries. HECAP fought alongside his brothers and sisters in arms for many years.
+		<title>雇佣兵</title>
+		<titleShort>雇佣兵</titleShort>
+		<desc>逃离母星后，NAME偶然碰到了一个雇佣团。HECAP伴随着兄弟姐妹们战斗多年。
 
-One day, they were caught in a fight they couldn't win. Refusing to retreat, NAME was shot down by his enemies. HECAP was alarmed to awake in a heap of corpses, mysteriously unharmed.</desc>
+有一天，在一场无法获胜的的战斗中他们被包围了。拒绝撤退的NAME最后被敌人击毙。后来HE在一堆尸体中惊慌失措地苏醒过来时，发现自己神秘地毫发无伤。</desc>
 	</Mercenary19>
 	<DisasterSurvivor28>
-		<title>Disaster survivor</title>
-		<titleShort>Survivor</titleShort>
-		<desc>NAME's planet collided with a small moon. Everything he knew as home was destroyed, and his entire family died. HECAP was left in the ruins to fend for himself.</desc>
+		<title>灾难幸存者</title>
+		<titleShort>幸存者</titleShort>
+		<desc>NAME的星球和一颗卫星相撞，所有东西都被摧毁，家人全部死亡。HECAP在废墟中独自照料自己。</desc>
 	</DisasterSurvivor28>
 	<ExplorerWriter37>
-		<title>Explorer-writer</title>
-		<titleShort>Explorer</titleShort>
-		<desc>NAME traveled from planet to planet, gathering samples, stories, and research. 
+		<title>探险作家</title>
+		<titleShort>探险家</titleShort>
+		<desc>NAME在各个星球间旅行，收集标本、故事，以及研究。
 
-HISCAP goal was to bring together enough knowledge to make a survival guide for future generations.</desc>
+HISCAP目标是集合足够的知识来写出一个生存指南留给后代。</desc>
 	</ExplorerWriter37>
+	<RebelChild7>
+		<title>叛逆的孩子</title>
+		<titleShort>叛逆</titleShort>
+		<desc>NAME出生于独裁统治之下。尽管受到来自家庭和社区的强烈压迫，但HE从不放弃为尊严和自由而战。
+
+HE经常陷入连家人都会恐吓HIM必须遵守规矩的绝望境地。HE学会了不信任任何人。</desc>
+	</RebelChild7>
+	<MilitiaSoldier83>
+		<title>民兵组织战士</title>
+		<titleShort>战士</titleShort>
+		<desc>NAME加入了民兵组织并为正义和和平而战。
+
+自HIS母星意想不到地在战争中被摧毁之后，HE旅行了非常远的距离，寻找着能够创造新的、自由的生活的避难所。</desc>
+	</MilitiaSoldier83>
 	<Punk70>
 		<title>朋克</title>
 		<titleShort>朋克</titleShort>

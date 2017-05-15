@@ -2,7 +2,8 @@
 <LanguageData>
 
   <JumpToLocation>转至事件发生地点</JumpToLocation>
-  <Postpone>推迟</Postpone>
+  <PostponeLetter>推迟</PostponeLetter>
+  <RejectLetter>拒绝</RejectLetter>
 
   <LetterLabelFirstSummerWarning>夏天</LetterLabelFirstSummerWarning>
   <FirstSummerWarning>夏天到了！冬天还会远吗？\n\n寒冷的冬日无法种植作物，赶紧趁现在从事生产，储备过冬食物。\n\n你可以建一间有制冷机的房间作为冷库以防止食物腐烂。\n\n同时尝试买、偷、缴获或者制作几件风雪大衣，以防冬季出门挨冻。</FirstSummerWarning>
@@ -56,11 +57,11 @@
   <LetterHediffFromRandomHediffGiver>{0}产生了新的症状：{1}。</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{0}{1}</LetterHediffFromRandomHediffGiverLabel>
 
-  <LetterLeadersDeathLabel>首领死亡</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>{1}的派系首领{0}已经死亡并由{2}继任。</LetterLeadersDeath>
+  <LetterLeadersDeathLabel>{1}死亡：{0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{1}的{3}， {0} 已死亡。\n\n新任{3}是 {2} 。</LetterLeadersDeath>
 
   <LetterLeaderChangedLabel>新任{1}：{0}</LetterLeaderChangedLabel>
-  <LetterLeaderChanged>{0}不再是{1}的{3}了。\n\n新任{3}是{2}。</LetterLeaderChanged>
+  <LetterLeaderChanged>{0} 不再是{1}的{3}了。\n\n新任{3}是 {2} 。</LetterLeaderChanged>
 
   <MentalBreakLetterLabel>精神崩溃</MentalBreakLetterLabel>
   <FinalStraw>压倒骆驼的最后一根稻草：{0}。</FinalStraw>
